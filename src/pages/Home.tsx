@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import CommonNavBar from "../components/common/CommonNavBar";
+import { CommonNavBar } from "../components/common";
 import Footer from "../components/common/Footer";
 import MainHomeIcon from "../assets/svg/MainHomeIcon";
 
