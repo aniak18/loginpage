@@ -16,8 +16,8 @@ const CommonNavBar = () => {
     <div className="flex justify-between items-center bg-primary px-4 py-2 text-white font-bold border-b border-gray-600 md:px-20 md:border-none">
       <div className="flex items-center gap-4">
         <div className="flex items-center">
-          <img src="/images/logo.png" alt="Logo" className="w-10 h-10 rounded-full" />
-          <Link to="/" className="ml-2">Zophy Solutions</Link>
+          <img src="\images\logo.jpeg" alt="Logo" className="w-10 h-10 rounded-full" />
+          <Link to="/" className="ml-2">Consent Management</Link>
         </div>
         <div className="hidden md:flex gap-8">
           <Link to="/">Home</Link>
